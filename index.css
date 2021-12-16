@@ -1,0 +1,13 @@
+.bg1{
+    background-color: burlywood;
+}
+
+.bg2{
+    background-color: green;
+    color: white;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+}
